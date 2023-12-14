@@ -21,16 +21,53 @@ The eye glasses are worn by the user, and the eye blink sensor continuously moni
 ## Components Used
 
 - **Eye Blink Sensor:** Monitors the user's eye activity.
+
+<div align="left">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/f34811f2-5db5-4878-82e2-1e4f608f0ff0" align="center" height="200" alt="Eye Blink Sensor"  />
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/961a9db1-66b9-4897-b5cd-670e9c33f7e2" align="center" height="200" alt="Eye Blink Sensor"  />
+</div>
+
 - **Arduino Nano:** Controls the system and processes sensor data.
+
+<div align="left">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/7dbd37ed-e73a-4309-a826-890525c923a5" align="center" height="200" alt="Arduino Nano"  />
+</div>
+
 - **Passive Buzzer:** Emits an audible alert when fatigue is detected.
+
+<div align="left">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/12256e6c-f193-44a9-b7e2-3474b6edc86e" align="center" height="200" alt="Passive Buzzer"  />
+</div>
+
 - **Coin Vibration Motor:** Provides haptic feedback to wake up the user.
+
+<div align="left">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/6f3ec8d1-0aa3-4424-b97c-7df0b3b8e9e9" align="center" height="200" alt="Coin Vibration Motor"  />
+</div>
+
 - **SPST Switch:** Enables easy on/off functionality.
+
+<div align="left">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/ed6e7e82-1471-43b2-a1f0-c25ef8c0b56f" align="center" height="200" alt="SPST Switch"  />
+</div>
+
 - **Jumper Wires:** Connects components according to the circuit diagram.
+
+<div align="left">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/d07ee85a-00f9-443e-a9a8-68aa8a624afd" align="center" height="200" alt="Jumper Wires"  />
+</div>
+
 - **9V Battery:** Powers the system.
+
+<div align="left">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/be49bd4a-57a4-4f09-909e-f1bd3f8627dd" align="center" height="200" alt="9V Battery"  />
+</div>
 
 ## Circuit Diagram
 
-![Circuit Diagram](https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/2551f39f-afd0-4cc4-a091-c9ef35cd9fd6)
+<div align="center">
+  <img src="https://github.com/Princepm02/Anti-Sleep-Alarm-System/assets/91951172/2551f39f-afd0-4cc4-a091-c9ef35cd9fd6" align="center" height="550" alt="Circuit       Diagram"  />
+</div>
 
 ## Implemented Eye Glasses
 
